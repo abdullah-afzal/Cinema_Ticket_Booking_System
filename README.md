@@ -24,9 +24,9 @@ Add Schedule Page
 ## Usage
 
 ```
-$ Clone full project
-$ import .sql file to localhost
-$ open project in an IDE like netbeans
+1. Clone full project
+2. import .sql file to localhost
+3. open project in an IDE like netbeans
 
 ```
 ---
