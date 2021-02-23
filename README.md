@@ -21,6 +21,14 @@ Add Schedule Page
 --
 <img src="./screenshot/Screenshot3.png"></img>
 
+## Usage
+
+```
+$ Clone full project
+$ import .sql file to localhost
+$ open project in an IDE like netbeans
+
+```
 ---
 
 Any tips on how it can be better or suggestions are appreciated.
