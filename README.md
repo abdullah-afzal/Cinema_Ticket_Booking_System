@@ -32,4 +32,4 @@ Add Schedule Page
 ---
 
 Any tips on how it can be better or suggestions are appreciated.
-Contact at: mr.abdullahAfzal@gmail.com
+Contact at: connect.abdullahAfzal@gmail.com
